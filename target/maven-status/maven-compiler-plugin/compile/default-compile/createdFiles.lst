@@ -1,0 +1,7 @@
+com\group\friends\model\Member.class
+com\group\friends\controller\FriendShipController.class
+com\group\friends\repository\MembersRepository.class
+com\group\friends\FriendsApplication.class
+com\group\friends\model\Friendship.class
+com\group\friends\repository\FriendshipRepository.class
+com\group\friends\controller\MemberController.class
